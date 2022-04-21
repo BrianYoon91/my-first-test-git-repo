@@ -16,3 +16,7 @@ body {
     margin: 0 auto;
     width: 80%;
 }
+
+h1, h2, h3 {
+    text-align: center;
+}
